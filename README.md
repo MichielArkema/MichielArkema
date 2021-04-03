@@ -8,7 +8,7 @@ My previous Github profile: https://github.com/icecolderino
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on The Redox Modding framework: https://github.com/RedoxMod
-- 🌱 I’m currently working with C#, CIL, PHP, Java
+- 🌱 I’m currently working with C#, CIL, PHP
 - 👯 I’m looking to collaborate on anything I'm intrested in.
 - 📫 How to reach me: https://michielarkema.nl
 - ⚡ Fun fact: I'm entirely self taught.
