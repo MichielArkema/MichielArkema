@@ -14,19 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm entirely self taught.
 -->
 
-## Favorite Programming Languages
-<ol>
-  <li>C#</li>
-  <li>C/C++</li>
-  <li>Java</li>
-  <li>CIL (.NET bytecode)</li>
-  <li>PHP</li>
-  <li>TypeScript</li>
-  <li>JavaScript</li>
-  <li>Html</li>
-  <li>Css</li>
-</ol>
-
 ## Open Source
 
 List of open source projects i work on.
