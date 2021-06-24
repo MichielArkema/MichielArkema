@@ -21,3 +21,6 @@ List of open source projects i work on.
 ### RedoxMod
 RedoxMod is my first big project. It's a Modding/Plugin framework for .NET Game servers.
 Redox Is fully dynamic, therefore it can be loaded anywhere you want without trouble.
+
+### OpenForum
+OpenForum is a free & open-source framework for building forum websites.
