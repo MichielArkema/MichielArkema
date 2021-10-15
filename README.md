@@ -1,7 +1,7 @@
 # Welcome to my profile
 
 My name is Michiel Arkema, I'm 20 years old and I live in the Netherlands. 
-I'm currently a software developer student at the Alfa College in Groningen. My work is mainly focused on .NET CSharp. I've been writing C# code for over 4 years now and I'm currently working with frameworks and crossplatform applications.
+I'm currently a software developer student at the Alfa College in Groningen. My work is mainly focused on .NET CSharp. I've been writing C# code for over 5 years now and I'm currently working with frameworks and crossplatform applications.
 
 My previous Github profile: https://github.com/icecolderino
 
