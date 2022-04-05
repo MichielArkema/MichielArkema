@@ -1,28 +1,12 @@
 # Welcome to my profile
 
-My name is Michiel Arkema, I'm 20 years old and I live in the Netherlands. 
-I'm currently a software developer student at the Alfa College in Groningen. My work is mainly focused on .NET CSharp. I've been writing C# code for over 5 years now and I'm currently working with frameworks and crossplatform applications.
+My name is Michiel Arkema, I'm 20 years old and I live in the Netherlands. I've been developing software for 6 years, being fully self-taught. And my goal is to teach and help people to become a software developer by providing both exclusive and free content.
 
 I'm currently a long-term intern at the RDW goverment facility of the Netherlands as a Software Engineer.
 
-My previous Github profile: https://github.com/icecolderino
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on The Redox Modding framework: https://github.com/RedoxMod
-- 🌱 I’m currently working with C#, CIL, PHP
-- 👯 I’m looking to collaborate on anything I'm intrested in.
-- 📫 How to reach me: https://michielarkema.nl
-- ⚡ Fun fact: I'm entirely self taught.
--->
-
-## Open Source
-
-List of open source projects i work on.
-
-### RedoxMod
-RedoxMod is my first big project. It's a Modding/Plugin framework for .NET Game servers.
-Redox Is fully dynamic, therefore it can be loaded anywhere you want without trouble.
-
-### OpenForum
-OpenForum is a free & open-source framework for building forum websites.
+- 🎥 My free educational content on [Youtube](https://www.youtube.com/channel/UCYeOAjhze6_4mPWtHRNViuA).
+- 🌱 I’m currently mainly working with: Azure DevOps, C#, Java, PHP
+- 📫 You can contact me at: <michielarkema@outlook.com>
